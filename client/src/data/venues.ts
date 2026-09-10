@@ -190,7 +190,7 @@ export const venues: Venue[] = [
     address: "8, Jalan Nipah 13, Taman Daya, 81100 Johor Bahru, Johor Darul Ta'zim",
     phone: "0197716873",
     hours: "6:30am–8:30pm（Monday closed）",
-    mapUrl: "https://www.google.com/maps/place/New+Joy+Deli/@1.5447507,103.7577121,719m/data=!3m2!1e3!4m6!3m5!1s0x31da6ddc9da57f95:0xc23aa71d7046c8a3!8m2!3d1.5447507!4d103.7577121!16s%2Fg%2F1hc10k45h?hl=en-MY&entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+    mapUrl: "https://maps.app.goo.gl/W4hc3co7pPAGcded7",
     socialLinks: [],
     price: "RM 10–25",
     tags: ["家常味", "多人聚餐", "份量感"],
